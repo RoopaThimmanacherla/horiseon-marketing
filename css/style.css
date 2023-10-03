@@ -66,11 +66,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*set the image to the left for the class*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
+/*set the image to the right for the class*/
 
 .float-right {
     float: right;
