@@ -167,3 +167,9 @@ You are required to submit the following for review:
 ## Link to the deployed application
 
 - https://roopathimmanacherla.github.io/horiseon-marketing/
+
+## Screenshot of live url
+
+
+![LIve url screenshot](https://github.com/RoopaThimmanacherla/horiseon-marketing/assets/144958836/d958c7fd-e8d7-4655-95f0-bd9afc047823)
+
