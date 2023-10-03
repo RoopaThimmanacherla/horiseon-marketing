@@ -159,3 +159,13 @@ You are required to submit the following for review:
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
 <<<<<<< HEAD
+
+## Descrition of the Horiseon Markrting site
+
+- Edited the existing html code to follow the semantic structure by removing the non semantic elements and added the added the descrition to the images using alt.
+
+- consolidated the selectors and properties and included the comments before each element or section of page.
+
+## Link to the deployed application
+
+- https://roopathimmanacherla.github.io/horiseon-marketing/
