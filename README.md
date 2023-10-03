@@ -158,8 +158,6 @@ You are required to submit the following for review:
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
-<<<<<<< HEAD
-
 ## Descrition of the Horiseon Markrting site
 
 - Edited the existing html code to follow the semantic structure by removing the non semantic elements and added the added the descrition to the images using alt.
