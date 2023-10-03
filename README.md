@@ -156,3 +156,9 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## Screenshot to the deployed application
+
+
+![LIve url screenshot](https://github.com/RoopaThimmanacherla/horiseon-marketing/assets/144958836/101ba8e0-94ca-43f5-a809-6214f0097bca)
+
